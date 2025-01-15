@@ -1,0 +1,165 @@
+/* Navbar Start */
+#nav {
+	background: #3377ff !important; 
+}
+
+nav a {
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 21.94px;
+
+	color: #17202a !important;
+}
+/* Navbar End */
+
+/* Landing Section Start */
+#landing {
+	background: #5d6d7e;
+}
+
+#landing h1 {
+	font-family: Montserrat;
+	font-size: 40px;
+	font-weight: 600;
+	line-height: 48.76px;
+
+	color: #17202a;
+}
+
+#landing h2 {
+	font-family: Montserrat;
+	font-size: 24px;
+	font-weight: 600;
+	line-height: 30px;
+	
+	color: #17202a;
+}
+
+#landing p {
+	font-family: Montserrat;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 30px;
+	
+	color: #17202a;
+}
+/* Landing Section End */
+
+/* Projects Section Start */
+#projects h2 {
+	font-family: Montserrat;
+	font-size: 40px;
+	font-weight: 600;
+	line-height: 48.76px;
+
+	color: #17202a;
+}
+
+#projects h5 {
+	font-family: Montserrat;
+	font-size: 17px;
+	font-weight: 600;
+	line-height: 48.76px;
+
+	color: #17202a;
+}
+
+#projects p {
+	font-family: Montserrat;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 25px;
+
+	color: #17202a;
+}
+/* Projects Section End */
+
+/* Tools Section Start */
+#tools {
+	background: #5d6d7e;
+}
+
+#tools h2 {
+	font-family: Montserrat;
+	font-size: 40px;
+	font-weight: 600;
+	line-height: 48.76px;
+
+	color: #17202a;
+}
+
+#tools h3 {
+	font-family: Montserrat;
+	font-size: 30px;
+	font-weight: 600;
+	line-height: 48.76px;
+
+	color: #17202a;
+}
+/* Tools Section End */
+
+/* Contact Section Start */
+#contact div h2 {
+	font-family: Montserrat;
+	font-size: 40px;
+	font-weight: 600;
+	line-height: 48.76px;
+
+	color: #17202a;
+}
+
+#map h2 {
+	font-family: Montserrat;
+	font-size: 30px;
+	font-weight: 600;
+	line-height: 48.76px;
+	background: #5d6d7e;
+	color: #17202a;
+}
+
+#form h2 {
+	font-family: Montserrat;
+	font-size: 30px;
+	font-weight: 600;
+	line-height: 48.76px;
+	background: #5d6d7e;
+	color: #17202a;
+}
+
+.form-group {
+	font-family: Montserrat;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 25px;
+
+	color: #17202a;
+}
+
+button {
+	font-family: Montserrat;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 25px;
+
+	color: #17202a !important;
+}
+
+#submitModalLabel {
+	font-family: Montserrat;
+	font-size: 15px;
+	font-weight: 600;
+	line-height: 25px;
+
+	color: #17202a;
+}
+
+.modal-body {
+	font-family: Montserrat;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 25px;
+
+	color: #17202a;
+}
+/* Contact Section End */
